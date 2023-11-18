@@ -1,2 +1,2 @@
 # registration-hub
-C Based Mini Project.
+C Language Based Mini Project.
